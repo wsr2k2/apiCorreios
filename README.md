@@ -18,5 +18,5 @@ Para realizar as consultas utilizamos um API Client, em nossa aplicação utiliz
 
 O endereço para realizar a requisição será: ``localhost:3000/cep`` utilizando da estrutura .json onde será passado o CEP desejado para consultar, conforme imagem abaixo:
 
-![alt consultaCep]()
+![alt consultaCep](https://github.com/wsr2k2/apiCorreios/blob/master/img/consultaCep.png?raw=true)
 
