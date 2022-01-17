@@ -22,5 +22,9 @@
       "start": "ts-node src/index.ts",
       "dev": "nodemon src/index.ts",
       "typeorm": "node --require ts-node/register ./node_modules/typeorm/cli.js"
-   }
+   },
+   "main": "index.js",
+   "repository": "https://github.com/wsr2k2/apiCorreios.git",
+   "author": "rafapearl <rafaironm2@gmail.com>",
+   "license": "MIT"
 }
